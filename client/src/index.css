@@ -1,0 +1,15 @@
+.navbar {
+    background-color: rgb(28, 165, 33);
+}
+
+.body {
+    margin: 0;
+    font-family: 'Public Sans', sans-serif;;
+    -webkit-font-smothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.category-aktif {
+    background-color: rgb(28, 165, 33) ;
+    color: white
+}
